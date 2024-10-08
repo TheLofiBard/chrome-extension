@@ -12,17 +12,17 @@ input {
 }
 
 button {
-    background-color: #5f9341;
+    background-color: #1f2153;
     color: white;
     font-weight: bold;
-    border: 1px solid #5f9341;
+    border: 1px solid #1f2153;
     margin-top: 5px;
     padding: 10px 20px;
 }
 
 #delete-btn {
     background-color: white;
-    color: #5f9341;
+    color: #1f2153;
 }
 
 ul {
@@ -37,6 +37,6 @@ li {
 }
 
 a {
-    color: #5f9341;
+    color: #1f2153;
     font-size: 1.3rem;
 }
